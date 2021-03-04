@@ -1,1 +1,1 @@
-# deeplearningmulticlassfication
+# naver movie review sentiment classification
